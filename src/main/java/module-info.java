@@ -5,4 +5,5 @@ module com.example.parcialparctico {
 
     opens com.example.parcialpractico to javafx.fxml;
     exports com.example.parcialpractico;
+    exports  com.example.parcialpractico.controller;
 }
